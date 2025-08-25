@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SCOUTIA – Radar de Oportunidades</title>
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 text-gray-800">
+<section class="min-h-screen flex flex-col justify-center items-center text-center px-6">
+  <h1 class="text-4xl font-bold mb-4">Oportunidades invisibles, antes que nadie</h1>
+  <p class="text-lg mb-6 max-w-2xl">SCOUTIA: radar personal de agentes IA. Recibe alertas de subastas, licitaciones y subvenciones en Madrid.</p>
+  <div class="flex gap-4">
+    <a href="https://wa.me/34637301881" class="bg-green-500 text-white px-6 py-3 rounded-lg">🚀 WhatsApp</a>
+    <a href="#" id="stripe-link" class="bg-blue-600 text-white px-6 py-3 rounded-lg">💳 Suscribirme (49 €/mes)</a>
+  </div>
+</section>
+<footer class="bg-gray-900 text-white text-center py-6"><p>© 2028 SCOUTIA</p></footer>
+</body>
+</html>
